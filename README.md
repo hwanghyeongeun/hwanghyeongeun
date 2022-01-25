@@ -1,7 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋  I'm
+![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=Hyeongeun%20Hwang&animation=twinkling&fontSize=90)
+### ✨ My Github Stats✨
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanghyeongeun&count_private=true&include_all_commits=True&show_icons=true&theme=buefy)
 <!--
-**hwanghyeongeun/hwanghyeongeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SoominRyu/SoominRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
