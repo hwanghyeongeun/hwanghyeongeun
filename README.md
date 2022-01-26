@@ -1,5 +1,5 @@
 ### Hi there 👋  I'm
-![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=300&section=header&text=Hyeongeun%20Hwang&animation=twinkling&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hyeongeun%20Hwang&animation=twinkling&fontSize=90)
 ### ✨ My Github Stats✨
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwanghyeongeun&count_private=true&include_all_commits=True&show_icons=true&theme=buefy)
 <!--
