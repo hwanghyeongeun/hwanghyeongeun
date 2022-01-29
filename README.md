@@ -5,6 +5,14 @@
 <!--
 **SoominRyu/SoominRyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+### Solved BJ� 💻  I'm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanghyeongeun)](https://solved.ac/hwanghyeongeun/)
+
+### Thanks for visiting 🚪
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghyeongeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,5 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwanghyeongeun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
